@@ -81,7 +81,8 @@ public class Program
         Console.WriteLine(program.SumOfPower(firstPowerStation));
     }
 
-
+    //tworze stos i zbiór odwiedzonych, zaczynam od pierwszej elektrowni, dodaje ją do odwiedzonych,
+    //na stos wrzucam sąsiednie elektrownie i odwiedzam pierwsza ze stosu
 
     public int SumOfPower(PowerPlant firstPowerStation)
     {

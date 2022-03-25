@@ -1,0 +1,15 @@
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\bin\Debug\net6.0\EpicodeElektrownie.exe
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\bin\Debug\net6.0\EpicodeElektrownie.deps.json
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\bin\Debug\net6.0\EpicodeElektrownie.runtimeconfig.json
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\bin\Debug\net6.0\EpicodeElektrownie.dll
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\bin\Debug\net6.0\EpicodeElektrownie.pdb
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\EpicodeElektrownie.csproj.AssemblyReference.cache
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\EpicodeElektrownie.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\EpicodeElektrownie.AssemblyInfoInputs.cache
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\EpicodeElektrownie.AssemblyInfo.cs
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\EpicodeElektrownie.csproj.CoreCompileInputs.cache
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\EpicodeElektrownie.dll
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\refint\EpicodeElektrownie.dll
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\EpicodeElektrownie.pdb
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\EpicodeElektrownie.genruntimeconfig.cache
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\EpicodeElektrownie\obj\Debug\net6.0\ref\EpicodeElektrownie.dll

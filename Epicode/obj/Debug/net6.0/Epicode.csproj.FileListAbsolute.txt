@@ -1,0 +1,15 @@
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\bin\Debug\net6.0\Epicode.exe
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\bin\Debug\net6.0\Epicode.deps.json
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\bin\Debug\net6.0\Epicode.runtimeconfig.json
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\bin\Debug\net6.0\Epicode.dll
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\bin\Debug\net6.0\Epicode.pdb
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\Epicode.csproj.AssemblyReference.cache
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\Epicode.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\Epicode.AssemblyInfoInputs.cache
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\Epicode.AssemblyInfo.cs
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\Epicode.csproj.CoreCompileInputs.cache
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\Epicode.dll
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\refint\Epicode.dll
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\Epicode.pdb
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\Epicode.genruntimeconfig.cache
+F:\VSworkspace\EpicodeTasks\EpicodeTasks\Epicode\obj\Debug\net6.0\ref\Epicode.dll
